@@ -55,10 +55,11 @@ font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color: var(--vanyblue);
 }
 
-.header-menu-link:hover,
-.header-menu-link:focus {
+.header-menu-link link:hover,
+.header-menu-link link:focus {
     color: #404bbf;
 }
 
@@ -83,7 +84,7 @@ font-size: 16px;
         color: var(--slate);
 }
 
-/* -----------HHERO------------- */
+/* -----------HERO------------- */
 .hero {
     background-color: var(--vanyblue);
 }
@@ -109,7 +110,7 @@ font-size: 56px;
 
 .hero-btn:hover,
 .hero-btn:focus {
-    color: #404BBF;
+    background-color: #404BBF;
 }
 
 /* -----------Advantages------------- */
@@ -134,7 +135,7 @@ font-size: 56px;
         font-weight: 400;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        color: var(--vanyblue);
+        color: var(--slate);
 }
 /* -----------Work------------- */
 
@@ -191,7 +192,7 @@ font-size: 56px;
         font-size: 16px;
         font-weight: 400;
         line-height: 1.50;
-        letter-spacing: 0.02;
+        letter-spacing: 0.02em;
 }
 
 /* -----------Footer------------- */ 
