@@ -251,14 +251,14 @@ font-size: 56px;
 .bro-btn-item {}
 
 .bro-btn-all {
-    color: var(--iris-color);
-        font-size: 16px;
-        font-weight: 500;
-        line-height: 1.5;
-        letter-spacing: 0.04em;
-        background-color: var(--cloud);
-        font-family: "Roboto", sans-serif;
-        cursor: pointer;
+color: var(--iris-color);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    background-color: var(--cloud);
+    font-family: "Roboto", sans-serif;
+    cursor: pointer;
 }
 
 .bro-btn-all:hover,
@@ -268,14 +268,14 @@ font-size: 56px;
 }
 
 .bro-btn-web {
-    color: var(--iris-color);
-        font-size: 16px;
-        font-weight: 500;
-        line-height: 1.5;
-        letter-spacing: 0.04em;
-        background-color: var(--cloud);
-        font-family: "Roboto", sans-serif;
-        cursor: pointer;
+color: var(--iris-color);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    background-color: var(--cloud);
+    font-family: "Roboto", sans-serif;
+    cursor: pointer;
 }
 
 .bro-btn-web:hover,
@@ -285,14 +285,14 @@ background-color: #404BBF;
 }
 
 .bro-btn-app {
-    color: var(--iris-color);
-        font-size: 16px;
-        font-weight: 500;
-        line-height: 1.5;
-        letter-spacing: 0.04em;
-        background-color: var(--cloud);
-        font-family: "Roboto", sans-serif;
-        cursor: pointer;
+color: var(--iris-color);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    background-color: var(--cloud);
+    font-family: "Roboto", sans-serif;
+    cursor: pointer;
 }
 
 .bro-btn-app:hover,
@@ -302,14 +302,14 @@ background-color: #404BBF;
 }
 
 .bro-btn-design {
-        color: var(--iris-color);
-            font-size: 16px;
-            font-weight: 500;
-            line-height: 1.5;
-            letter-spacing: 0.04em;
-            background-color: var(--cloud);
-            font-family: "Roboto", sans-serif;
-            cursor: pointer;
+color: var(--iris-color);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    background-color: var(--cloud);
+    font-family: "Roboto", sans-serif;
+    cursor: pointer;
 }
 
 .bro-btn-design:hover,
@@ -319,14 +319,14 @@ color: #FFFFFF;
 }
 
 .bro-btn-marketing {
-        color: var(--iris-color);
-            font-size: 16px;
-            font-weight: 500;
-            line-height: 1.5;
-            letter-spacing: 0.04em;
-            background-color: var(--cloud);
-            font-family: "Roboto", sans-serif;
-            cursor: pointer;
+color: var(--iris-color);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    background-color: var(--cloud);
+    font-family: "Roboto", sans-serif;
+    cursor: pointer;
 }
 
 .bro-btn-marketing:hover,
