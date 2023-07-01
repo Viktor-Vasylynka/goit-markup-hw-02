@@ -264,6 +264,7 @@ font-size: 56px;
 .bro-btn-all:hover,
 .bro-btn-all:focus {
     color: #FFFFFF;
+    background-color: #404BBF;
 }
 
 .bro-btn-web {
@@ -280,6 +281,7 @@ font-size: 56px;
 .bro-btn-web:hover,
 .bro-btn-web:focus{
 color: #FFFFFF;
+background-color: #404BBF;
 }
 
 .bro-btn-app {
@@ -296,6 +298,7 @@ color: #FFFFFF;
 .bro-btn-app:hover,
 .bro-btn-app:focus {
 color: #FFFFFF;
+background-color: #404BBF;
 }
 
 .bro-btn-design {
@@ -312,6 +315,7 @@ color: #FFFFFF;
 .bro-btn-design:hover,
 .bro-btn-design:focus {
 color: #FFFFFF;
+    background-color: #404BBF;
 }
 
 .bro-btn-marketing {
@@ -328,6 +332,7 @@ color: #FFFFFF;
 .bro-btn-marketing:hover,
 .bro-btn-marketing:focus {
 color: #FFFFFF;
+    background-color: #404BBF;
 }
 
 
