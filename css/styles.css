@@ -10,6 +10,8 @@
 --primary-letter-spacing: 0.04em;
 --primary-font-family: "Roboto", sans-serif;
 --primary-cursor: pointer;
+--psevdo-color: #FFFFFF;
+--psevdo-background-color: #404BBF;
 }
 
 body {
@@ -269,8 +271,8 @@ color: var(--iris-color);
 
 .bro-btn-all:hover,
 .bro-btn-all:focus {
-    color: #FFFFFF;
-    background-color: #404BBF;
+color: var(--psevdo-color);
+    background-color: var(--psevdo-background-color);
 }
 
 .bro-btn-web {
@@ -286,8 +288,8 @@ color: var(--iris-color);
 
 .bro-btn-web:hover,
 .bro-btn-web:focus{
-color: #FFFFFF;
-background-color: #404BBF;
+color: var(--psevdo-color);
+    background-color: var(--psevdo-background-color);
 }
 
 .bro-btn-app {
@@ -303,8 +305,8 @@ color: var(--iris-color);
 
 .bro-btn-app:hover,
 .bro-btn-app:focus {
-color: #FFFFFF;
-background-color: #404BBF;
+color: var(--psevdo-color);
+    background-color: var(--psevdo-background-color);
 }
 
 .bro-btn-design {
@@ -320,8 +322,8 @@ color: var(--iris-color);
 
 .bro-btn-design:hover,
 .bro-btn-design:focus {
-color: #FFFFFF;
-    background-color: #404BBF;
+color: var(--psevdo-color);
+    background-color: var(--psevdo-background-color);
 }
 
 .bro-btn-marketing {
@@ -337,8 +339,8 @@ color: var(--iris-color);
 
 .bro-btn-marketing:hover,
 .bro-btn-marketing:focus {
-color: #FFFFFF;
-    background-color: #404BBF;
+color: var(--psevdo-color);
+    background-color: var(--psevdo-background-color);
 }
 
 
