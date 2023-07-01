@@ -4,14 +4,6 @@
     --vanyblue: #2e2f42;
     --slate: #434455;
     --cloud: #F4F4FD;
-    --primary-font-size: 16px;
-    --primary-font-weight: 500;
-    --primary-line-height: 1.5;
-    --primary-letter-spacing: 0.04em;
-    --primary-font-family: "Roboto", sans-serif;
-    --primary-cursor: pointer;
-    --psevdo-color: #FFFFFF;
-    --psevdo-background-color: #404BBF;
 }
 
 body {
@@ -258,19 +250,19 @@ font-size: 56px;
 
 .bro-btn-item {
     color: var(--iris-color);
-        font-size: var(--primary-font-size);
-        font-weight: var(--primary-font-weight);
-        line-height: var(--primary-line-height);
-        letter-spacing: var(--primary-letter-spacing);
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
         background-color: var(--cloud);
-        font-family: var(--primary-font-family);
-        cursor: var(--primary-cursor);
+        font-family: "Roboto", sans-serif;
+        cursor: pointer;
 }
 
 .bro-btn-item:hover,
 .bro-btn-item:focus {
-color: var(--psevdo-color);
-    background-color: var(--psevdo-background-color);
+color: #FFFFFF;
+    background-color: #FFFFFF;
 }
 
 /* -------------IMG SECTION------------- */
