@@ -247,7 +247,9 @@ font-size: 56px;
 
 .bro-btn-list {}
 
-.bro-btn-item {
+.bro-btn-item {}
+
+.bro-btn-text {
     color: var(--iris-color);
         font-size: 16px;
         font-weight: 500;
@@ -258,12 +260,11 @@ font-size: 56px;
         cursor: pointer;
 }
 
-.bro-btn-item:hover,
-.bro-btn-item:focus {
-color: #FFFFFF;
+.bro-btn-text:hover,
+.bro-btn-text:focus {
+    color: #FFFFFF;
     background-color: #404BBF;
 }
-
 /* -------------IMG SECTION------------- */
 
 .bro-img-list {}
