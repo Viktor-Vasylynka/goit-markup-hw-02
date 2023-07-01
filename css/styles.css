@@ -4,14 +4,14 @@
     --vanyblue: #2e2f42;
     --slate: #434455;
     --cloud: #F4F4FD;
---primary-font-size: 16px;
---primary-font-weight: 500;
---primary-line-height: 1.5;
---primary-letter-spacing: 0.04em;
---primary-font-family: "Roboto", sans-serif;
---primary-cursor: pointer;
---psevdo-color: #FFFFFF;
---psevdo-background-color: #404BBF;
+    --primary-font-size: 16px;
+    --primary-font-weight: 500;
+    --primary-line-height: 1.5;
+    --primary-letter-spacing: 0.04em;
+    --primary-font-family: "Roboto", sans-serif;
+    --primary-cursor: pointer;
+    --psevdo-color: #FFFFFF;
+    --psevdo-background-color: #404BBF;
 }
 
 body {
@@ -256,93 +256,22 @@ font-size: 56px;
 
 .bro-btn-list {}
 
-.bro-btn-item {}
-
-.bro-btn-all {
-color: var(--iris-color);
-    font-size: var(--primary-font-size);
-    font-weight: var(--primary-font-weight);
-    line-height: var(--primary-line-height);
-    letter-spacing: var(--primary-letter-spacing);
-    background-color: var(--cloud);
-    font-family: var(--primary-font-family);
-    cursor: var(--primary-cursor);
+.bro-btn-item {
+    color: var(--iris-color);
+        font-size: var(--primary-font-size);
+        font-weight: var(--primary-font-weight);
+        line-height: var(--primary-line-height);
+        letter-spacing: var(--primary-letter-spacing);
+        background-color: var(--cloud);
+        font-family: var(--primary-font-family);
+        cursor: var(--primary-cursor);
 }
 
-.bro-btn-all:hover,
-.bro-btn-all:focus {
+.bro-btn-item:hover,
+.bro-btn-item:focus {
 color: var(--psevdo-color);
     background-color: var(--psevdo-background-color);
 }
-
-.bro-btn-web {
-color: var(--iris-color);
-    font-size: var(--primary-font-size);
-    font-weight: var(--primary-font-weight);
-    line-height: var(--primary-line-height);
-    letter-spacing: var(--primary-letter-spacing);
-    background-color: var(--cloud);
-    font-family: var(--primary-font-family);
-    cursor: var(--primary-cursor);
-}
-
-.bro-btn-web:hover,
-.bro-btn-web:focus{
-color: var(--psevdo-color);
-    background-color: var(--psevdo-background-color);
-}
-
-.bro-btn-app {
-color: var(--iris-color);
-    font-size: var(--primary-font-size);
-    font-weight: var(--primary-font-weight);
-    line-height: var(--primary-line-height);
-    letter-spacing: var(--primary-letter-spacing);
-    background-color: var(--cloud);
-    font-family: var(--primary-font-family);
-    cursor: var(--primary-cursor);
-}
-
-.bro-btn-app:hover,
-.bro-btn-app:focus {
-color: var(--psevdo-color);
-    background-color: var(--psevdo-background-color);
-}
-
-.bro-btn-design {
-color: var(--iris-color);
-    font-size: var(--primary-font-size);
-    font-weight: var(--primary-font-weight);
-    line-height: var(--primary-line-height);
-    letter-spacing: var(--primary-letter-spacing);
-    background-color: var(--cloud);
-    font-family: var(--primary-font-family);
-    cursor: var(--primary-cursor);
-}
-
-.bro-btn-design:hover,
-.bro-btn-design:focus {
-color: var(--psevdo-color);
-    background-color: var(--psevdo-background-color);
-}
-
-.bro-btn-marketing {
-color: var(--iris-color);
-    font-size: var(--primary-font-size);
-    font-weight: var(--primary-font-weight);
-    line-height: var(--primary-line-height);
-    letter-spacing: var(--primary-letter-spacing);
-    background-color: var(--cloud);
-    font-family: var(--primary-font-family);
-    cursor: var(--primary-cursor);
-}
-
-.bro-btn-marketing:hover,
-.bro-btn-marketing:focus {
-color: var(--psevdo-color);
-    background-color: var(--psevdo-background-color);
-}
-
 
 /* -------------IMG SECTION------------- */
 
