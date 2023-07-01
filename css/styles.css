@@ -59,8 +59,10 @@ font-size: 16px;
     color: var(--vanyblue);
 }
 
-.header-menu-link link:hover,
-.header-menu-link link:focus {
+.header-menu-link:hover {
+    color: #404bbf;
+}
+.header-menu-link:focus {
     color: #404bbf;
 }
 
@@ -85,6 +87,12 @@ font-size: 16px;
         color: var(--slate);
 }
 
+.header-contacts-link:hover {
+    color: #404bbf;
+}
+.header-contacts-link:focus {
+  color: #404bbf;  
+}
 /* -----------HERO------------- */
 .hero {
     background-color: var(--vanyblue);
@@ -243,88 +251,83 @@ font-size: 56px;
 .bro-btn-item {}
 
 .bro-btn-all {
-    color: var(--primary-white-color);
+    color: var(--iris-color);
         font-size: 16px;
         font-weight: 500;
         line-height: 1.5;
         letter-spacing: 0.04em;
-        background-color: #404BBF;
+        background-color: var(--cloud);
         font-family: "Roboto", sans-serif;
         cursor: pointer;
 }
 
 .bro-btn-all:hover,
 .bro-btn-all:focus {
-    color: var(--cloud);
-    color: var(--cloud);
+    color: #FFFFFF;
 }
 
 .bro-btn-web {
     color: var(--iris-color);
         font-size: 16px;
-        font-family: "Roboto", sans-serif;
         font-weight: 500;
         line-height: 1.5;
         letter-spacing: 0.04em;
         background-color: var(--cloud);
+        font-family: "Roboto", sans-serif;
         cursor: pointer;
 }
 
 .bro-btn-web:hover,
 .bro-btn-web:focus{
-    color: var(--cloud);
-        color: var(--cloud);
+color: #FFFFFF;
 }
 
 .bro-btn-app {
     color: var(--iris-color);
         font-size: 16px;
-        font-family: "Roboto", sans-serif;
         font-weight: 500;
         line-height: 1.5;
         letter-spacing: 0.04em;
         background-color: var(--cloud);
+        font-family: "Roboto", sans-serif;
         cursor: pointer;
 }
 
 .bro-btn-app:hover,
 .bro-btn-app:focus {
-    color: var(--cloud);
-        color: var(--cloud);
+color: #FFFFFF;
 }
 
 .bro-btn-design {
         color: var(--iris-color);
             font-size: 16px;
-            font-family: "Roboto", sans-serif;
             font-weight: 500;
             line-height: 1.5;
             letter-spacing: 0.04em;
             background-color: var(--cloud);
+            font-family: "Roboto", sans-serif;
             cursor: pointer;
 }
 
 .bro-btn-design:hover,
 .bro-btn-design:focus {
-    color: var(--cloud);
-    color: var(--cloud);
+color: #FFFFFF;
 }
 
 .bro-btn-marketing {
         color: var(--iris-color);
             font-size: 16px;
-            font-family: "Roboto", sans-serif;
             font-weight: 500;
             line-height: 1.5;
             letter-spacing: 0.04em;
             background-color: var(--cloud);
+            font-family: "Roboto", sans-serif;
             cursor: pointer;
 }
 
 .bro-btn-marketing:hover,
 .bro-btn-marketing:focus {
-        color: var(--cloud);
-         color: var(--cloud);
+color: #FFFFFF;
 }
 
 
