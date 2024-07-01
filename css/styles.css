@@ -101,7 +101,9 @@ text-decoration: none;
 
 .feature {}
 
-.feature-tittle {}
+.feature-tittle {
+    display: none;
+}
 
 .feature-list {}
 
