@@ -16,17 +16,17 @@ text-decoration: none;
 .header-navigation {}
 
 .header-logo {
-    
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
         font-size: 18px;
-        line-height: 1.16;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        color: #2e2f42;
+        color: #4d5ae5;
 }
 
 .header-logo-accent {
-    color: #4d5ae5;
+    color: #2e2f42;
 }
 
 .header-menu-list {}
@@ -42,13 +42,15 @@ text-decoration: none;
 }
 
 .header-menu-link:hover,
-.header-menu-link:active {
+.header-menu-link:focus {
     color: #404bbf;
 }
 
 
 
-.header-address-list {}
+.header-address-list {
+    ont-style: normal;
+}
 
 .header-address-item {}
 
@@ -60,7 +62,8 @@ text-decoration: none;
         color: #434455;
 }
 
-.header-address-link:hover {
+.header-address-link:hover,
+.header-address-link:focus {
     color: #404bbf;
 }
 /* -------------------------------------------------- */
@@ -81,6 +84,7 @@ text-decoration: none;
 }
 
 .hero-btn {
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
@@ -91,7 +95,8 @@ text-decoration: none;
         cursor: pointer;
 }
 
-.hero-btn:hover {
+.hero-btn:hover
+.hero-btn:focus {
     background: #404bbf;
 }
 
@@ -137,10 +142,13 @@ text-decoration: none;
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
+        text-transform: capitalize;
         color: #2e2f42;
 }
 
-.team-list {}
+.team-list {
+    background-color: #FFFFFF;
+}
 
 .team-item {}
 
@@ -172,6 +180,7 @@ text-decoration: none;
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
+        text-transform: capitalize;
         color: #2e2f42;
 }
 
@@ -208,14 +217,14 @@ text-decoration: none;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
         font-size: 18px;
-        line-height: 1.16;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        color: #f4f4fd;
+        color: #4d5ae5;
 }
 
 .footer-logo-accent {
-    color: #4d5ae5;
+    color: #f4f4fd;
 }
 
 .foter-text {
