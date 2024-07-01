@@ -1,6 +1,7 @@
 body {
-    font-family: 'Roboto', 'Releway', sans-serif ;
-    color: #2e2f42;
+    font-family: 'Roboto', sans-serif ;
+    color: #434455;
+    background-color: #FFFFFF;
 }
 ul {
 list-style-type: none;
@@ -47,10 +48,10 @@ text-decoration: none;
 }
 
 
-
-.header-address-list {
-    ont-style: normal;
+.header-address{
+    font-style: normal;
 }
+.header-address-list {}
 
 .header-address-item {}
 
@@ -90,12 +91,11 @@ text-decoration: none;
         line-height: 1.5;
         letter-spacing: 0.04em;
         color: #fff;
-        box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
         background: #4d5ae5;
         cursor: pointer;
 }
 
-.hero-btn:hover
+.hero-btn:hover,
 .hero-btn:focus {
     background: #404bbf;
 }
@@ -147,10 +147,12 @@ text-decoration: none;
 }
 
 .team-list {
-    background-color: #FFFFFF;
+    /* background-color: #FFFFFF; */
 }
 
-.team-item {}
+.team-item {
+    background-color: #FFFFFF;
+}
 
 .team-subtitle {
     font-weight: 500;
