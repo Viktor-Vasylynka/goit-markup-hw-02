@@ -76,7 +76,7 @@ text-decoration: none;
 }
 
 .hero-title {
-    font-weight: 700;
+    /* font-weight: 700; */
         font-size: 56px;
         line-height: 1.07;
         letter-spacing: 0.02em;
@@ -137,7 +137,7 @@ text-decoration: none;
 }
 
 .team-title {
-    font-weight: 700;
+    /* font-weight: 700; */
         font-size: 36px;
         line-height: 1.11;
         letter-spacing: 0.02em;
@@ -164,7 +164,7 @@ text-decoration: none;
 }
 
 .team-text {
-    font-weight: 400;
+    /* font-weight: 400; */
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
@@ -177,7 +177,7 @@ text-decoration: none;
 .portfolio {}
 
 .portfolio-title {
-    font-weight: 700;
+    /* font-weight: 700; */
         font-size: 36px;
         line-height: 1.11;
         letter-spacing: 0.02em;
@@ -199,7 +199,7 @@ text-decoration: none;
 }
 
 .portfolio-text {
-    font-weight: 400;
+    /* font-weight: 400; */
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
@@ -230,7 +230,7 @@ text-decoration: none;
 }
 
 .foter-text {
-    font-weight: 400;
+    /* font-weight: 400; */
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
